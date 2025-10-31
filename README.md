@@ -1,7 +1,6 @@
 # EDI Translator/Validator (FastAPI + React)
 
-A minimal, working project to upload an X12 EDI file, auto-detect the transaction set (850/810 supported), parse segments to JSON, and run basic validation rules. Great as a portfolio project for EDI Coordinator roles.
-
+A minimal, working project to upload an X12 EDI file, auto-detect the transaction set (850/810 supported), parse segments to JSON, and run basic validation rules. 
 ## Quick start
 
 ### 1) Backend
